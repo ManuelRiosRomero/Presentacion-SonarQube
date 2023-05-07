@@ -6,6 +6,7 @@
 [Try out SonarQube](https://docs.sonarqube.org/latest/try-out-sonarqube/)
 
 [Canva](https://www.canva.com/design/DAFiQfAuAaE/SeY2wN9OFpFFHjxaCJB1nw/view?utm_content=DAFiQfAuAaE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [Documento de Investigación](https://github.com/ManuelRiosRomero/Presentacion-SonarQube/blob/main/Investigaci%C3%B3n%20SonarQube.pdf)
 
 1. Hacer pull a la imagen oficial de SonarQube
