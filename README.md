@@ -5,6 +5,8 @@
 
 [Try out SonarQube](https://docs.sonarqube.org/latest/try-out-sonarqube/)
 
+[Canva](https://www.canva.com/design/DAFiQfAuAaE/SeY2wN9OFpFFHjxaCJB1nw/view?utm_content=DAFiQfAuAaE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 1. Hacer pull a la imagen oficial de SonarQube
 ```bash
 docker pull sonarqube
