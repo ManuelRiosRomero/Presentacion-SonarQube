@@ -30,8 +30,8 @@ docker run -d --name sonarqube -e SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true -p 9000
 
 ## Analisis de un Proyecto
 1. Crea un proyecto nuevo, genera los tokens y cuando sea necesario correr el analisis del proyecto, selecionar las opciones correspondientes.
-> Para el propósito de este proyecto, escogemos ```Other``` y ```Windows```
-> Esto nos va requerir instalar el Sonar Scanner y agregar el directorio ```bin``` al ```%PATH%```
+> Para el propósito de este proyecto, escogemos ```Maven```.
+> En caso de requerir usar ```Other``` se nos va requerir instalar el Sonar Scanner y agregar el directorio ```bin``` al ```%PATH%```.
 
 2. Copia y pega el codigo que te otorga la pagina para ejecutar el scanner en la carpeta del proyecto.
 
