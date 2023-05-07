@@ -39,3 +39,5 @@ docker run -d --name sonarqube -e SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true -p 9000
 
 ## Proyecto a Testear
 El proyecto que vamos a testear es un proyecto en Maven tomado de este [link](https://github.com/SonarSource/sonar-scanning-examples/tree/master/sonarqube-scanner-maven/maven-basic).
+
+Mas ejemplos se pueden encontrar [aqui](https://github.com/SonarSource/sonar-scanning-examples).
