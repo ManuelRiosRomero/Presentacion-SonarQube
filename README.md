@@ -36,3 +36,6 @@ docker run -d --name sonarqube -e SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true -p 9000
 2. Copia y pega el codigo que te otorga la pagina para ejecutar el scanner en la carpeta del proyecto.
 
 3. Una vez terminado el scan, la pagina se va a autorefrescar y mostrar el analisis generado del proyecto.
+
+## Proyecto a Testear
+El proyecto que vamos a testear es un proyecto en Maven tomado de este [link](https://github.com/SonarSource/sonar-scanning-examples/tree/master/sonarqube-scanner-maven/maven-basic).
